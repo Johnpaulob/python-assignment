@@ -38,4 +38,4 @@ if __name__ == "__main__":
     if check_password_strength(user_password):#check the return value true by calling check_password_strength function with the input string
         print("Password is strong.")
     else:
-        print("Password is weak. It must be at least 8 characters long and include uppercase, lowercase, a digit, and a special character.")
+        print("Password is weak. It must be at least eight characters long & include upperCase, lowerCase, a digit, and a special character.")
